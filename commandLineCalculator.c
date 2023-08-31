@@ -5,8 +5,8 @@
 
 //You have to give command like following in order to have accurate result and currently this code does not supports floating point integers
 
-//add 10 20
-//mul 50 60
+//filePath/add 10 20
+//filepath/mul 50 60
 int main(int argc,char*argv[]){
 if(argc < 3){
     printf("Error in gettting aguments");
