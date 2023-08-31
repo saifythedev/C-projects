@@ -1,0 +1,7 @@
+***Thank you for shopping with us***
+Customer Name:{{name}}
+Total Bill:{{Total}}
+Paid:{{paid}}
+Return :{{return}}
+
+Time : {{Date}}
